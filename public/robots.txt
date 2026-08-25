@@ -4,4 +4,4 @@ Disallow: /admin
 Disallow: /private
 
 
-Sitemap: https://gtabrowser.vercel.app/sitemap.xml
+Sitemap: https://vicecityonline.vercel.app/sitemap.xml
